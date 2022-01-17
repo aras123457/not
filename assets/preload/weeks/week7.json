@@ -1,0 +1,58 @@
+{
+	"storyName": "Tricky",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Tricky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Improbable Outset",
+			"tricky-mask",
+			[
+				45,
+				255,
+				45
+			]
+		],
+		[
+			"Madness",
+			"tricky",
+			[
+				45,
+				255,
+				45
+			]
+		],
+		[
+			"HELLCLOWN",
+			"demon-tricky",
+			[
+				215,
+				255,
+				115
+			]
+		],
+		[
+			"Expurgation",
+			"ex-tricky",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 7"
+}
